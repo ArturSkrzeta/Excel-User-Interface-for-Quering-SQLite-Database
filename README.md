@@ -1,7 +1,7 @@
 <h2>Excel User Interface for Quering SQLite Database</h2>
 <h3>Intro</h3>
 <p>Using Excel and restrictive programmed logic to interact with SQL database.</p>
-<img src="images/schema.JPG">
+<img src="images/excel-db.JPG">
 <p>With that solution we can protect the database and prevents user from sending undesirable queries.</p>
 <ul>
   <li>Excel VBA and SQLite integraion requires SQLite3 ODBC Driver installation and adding it in the system ODBC administartion panel.</li>
