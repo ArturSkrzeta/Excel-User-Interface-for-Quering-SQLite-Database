@@ -3,7 +3,10 @@
 <p>Using Excel and restrictive programmed in VBA logic in order to let users to interact with SQL database.</p>
 <img src="images/excel-db.JPG">
 <p>With that solution we can protect the database and prevents users from sending undesirable queries.</p>
+<h3>Demo</h3>
+<p>Data processing in Excel:</p>
 <img src="images/qry.gif">
+<p>Changes are reflected in database live:</p>
 <img src="images/db.JPG">
 <h3>Conclusions</h3>
 <ul>
