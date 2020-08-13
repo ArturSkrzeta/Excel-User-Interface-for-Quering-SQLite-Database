@@ -4,6 +4,7 @@
 <img src="images/excel-db.JPG">
 <p>With that solution we can protect the database and prevents users from sending undesirable queries.</p>
 <img src="images/qry.gif">
+<img src="images/db.JPG">
 <h3>Conclusions</h3>
 <ul>
   <li>Excel VBA and SQLite integraion requires SQLite3 ODBC Driver installation and adding it in the system ODBC administartion panel.</li>
