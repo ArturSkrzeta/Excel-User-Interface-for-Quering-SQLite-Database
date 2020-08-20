@@ -1,4 +1,5 @@
 <h2>Excel User Interface for Quering SQLite Database</h2>
+
 <h3>Intro</h3>
 <p>Using Excel and restrictive programmed in VBA logic in order to let users to interact with SQL database.</p>
 <img src="images/excel-db.JPG">
@@ -8,8 +9,6 @@
 <img src="images/qry.gif">
 <p>Changes are reflected in database live:</p>
 <img src="images/db.JPG">
-
-
 
 <h3>Toolset</h3>
 <ul>
@@ -28,5 +27,6 @@
 <h3>Conclusions</h3>
 <ul>
   <li>VBA code dictates what queries user can send to database.</li>
-  <li>Excel connecting SQLite is bulit in the way user doesn't have to know any SQL queris</li>
+  <li>Excel connecting SQLite is bulit in the way user doesn't have to know any SQL queries.</li>
+  <li>User can simply retrieve, update and delete data with Excel interface instead.</li>
 <ul>
