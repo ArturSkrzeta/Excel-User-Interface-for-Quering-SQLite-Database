@@ -22,6 +22,9 @@
     <li>Accept by clicking OKs.</li>
   </ul>
   <li>Anoter useful piece of software is DB Browser for SQLite which allows us to view data schemas and data tables themsleves as well as to query db (printscreen above).</li>
+  <ul>
+    <li>One of the best functions is when having more extended select query you can save the outcome of it into CSV file for further processing/analysis.</li>
+  </ul>
 </ul>
 
 <h3>Conclusions</h3>
